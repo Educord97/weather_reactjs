@@ -1,0 +1,15 @@
+{
+    "short_name": "Weather",
+    "name": "Weather",
+    "icons": [
+      {
+        "src": "https://www.flaticon.com/premium-icon/icons/svg/3104/3104619.svg",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#302b63"
+  }
